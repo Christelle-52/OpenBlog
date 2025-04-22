@@ -978,3 +978,6 @@ a87abb,172.18.0.1,GET,https://localhost:8443/,1745251977,,200,request
 7f3c17,172.18.0.1,GET,https://localhost:8443/uploads/articles/mini/300x300-default.webp,1745251978,f4f7db,404,request
 f4f7db,172.18.0.1,GET,https://localhost:8443/uploads/articles/mini/300x300-default.webp,1745251978,,404,request
 494bac,172.18.0.1,GET,https://localhost:8443/login,1745251984,,200,request
+f5438f,172.18.0.1,GET,https://localhost:8443/,1745317512,,200,request
+8ae901,172.18.0.1,GET,https://localhost:8443/uploads/articles/mini/300x300-default.webp,1745317512,12c171,404,request
+12c171,172.18.0.1,GET,https://localhost:8443/uploads/articles/mini/300x300-default.webp,1745317512,,404,request
